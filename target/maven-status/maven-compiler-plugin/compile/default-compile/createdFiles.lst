@@ -1,0 +1,9 @@
+org/plugin/register/JoinListener$1.class
+org/plugin/register/JoinListener.class
+org/plugin/register/PasswordUtil.class
+org/plugin/register/RegisterCommand.class
+org/plugin/register/Register.class
+org/plugin/register/UserMetaDataManager.class
+org/plugin/register/DataBaseManager.class
+org/plugin/register/LogInCommand.class
+org/plugin/register/LoginAttempts.class
